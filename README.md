@@ -1,7 +1,11 @@
-# Art restoration in camera capute images of Art.
-## Image restoration and super resolution using pretrained and finetuned Diffusion Model.
+# Art restoration in camera capute images of distorted/degraded Art.
+Image restoration and super resolution using pretrained and finetuned Diffusion Model.
 
-### Update
+## Update
+- [x] For Art Restoration fine-tuned model weights contact `rnfrbdsandeep@gmail.com`.
+- [ ] 
+
+## <font color="red" >   </font>
 
 ### Demo on real-world SR
 
@@ -133,4 +137,4 @@ This project is licensed under <a rel="license" href="https://github.com/IceClea
 This project is based on [StableSR](https://github.com/IceClear/StableSR), [stablediffusion](https://github.com/Stability-AI/stablediffusion), [latent-diffusion](https://github.com/CompVis/latent-diffusion), [SPADE](https://github.com/NVlabs/SPADE), [mixture-of-diffusers](https://github.com/albarji/mixture-of-diffusers) and [BasicSR](https://github.com/XPixelGroup/BasicSR). Thanks for their awesome work.
 
 ### Contact
-If you have any questions, please feel free to reach me out at `iceclearwjy@gmail.com`.
+If you have any questions, please feel free to reach me out at `rnfrbdsandeep@gmail.com`.

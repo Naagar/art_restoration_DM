@@ -1,6 +1,9 @@
 # Art restoration in camera capute images of distorted/degraded Art.
 Image restoration and super resolution using pretrained and finetuned Diffusion Model.
 
+### [COMPETITIONS @ ICETCI 2023](https://ietcint.com/user/competitions)  
+### AI Art Restoration - Reviving Cultural Heritage
+
 ## Update
 - [x] For Art Restoration fine-tuned model weights contact `rnfrbdsandeep@gmail.com`.
 - [ ] 

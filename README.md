@@ -1,5 +1,5 @@
 # Art restoration in camera capute images of distorted/degraded Art.
-Image restoration and super resolution using pretrained and finetuned Diffusion Model.
+Image restoration and super resolution using finetuned Diffusion Model.
 
 ### [COMPETITIONS @ ICETCI 2023](https://ietcint.com/user/competitions)  
 ### AI Art Restoration - Reviving Cultural Heritage
@@ -124,16 +124,16 @@ You may see [here](https://replicate.com/cjwbw/stablesr/api) for more informatio
 ### Citation
 If our work is useful for your research, please consider citing:
 
-    @inproceedings{wang2023exploiting,
-        author = {Wang, Jianyi and Yue, Zongsheng and Zhou, Shangchen and Chan, Kelvin CK and Loy, Chen Change},
-        title = {Exploiting Diffusion Prior for Real-World Image Super-Resolution},
-        booktitle = {arXiv preprint arXiv:2305.07015},
-        year = {2023}
-    }
+    @misc{nagar2023adaptation,
+      title={Adaptation of the super resolution SOTA for Art Restoration in camera capture images}, 
+      author={Sandeep Nagar},
+      year={2023},
+      eprint={2309.13655},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
-### License
 
-This project is licensed under <a rel="license" href="https://github.com/IceClear/StableSR/blob/main/LICENSE.txt">NTU S-Lab License 1.0</a>. Redistribution and use should follow this license.
 
 ### Acknowledgement
 

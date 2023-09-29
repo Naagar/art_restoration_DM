@@ -8,7 +8,7 @@ Image restoration and super resolution using finetuned Diffusion Model.
 ### AI Art Restoration - Reviving Cultural Heritage
 
 ## Update
-- [x] For Art Restoration fine-tuned model weights contact `rnfrbdsandeep@gmail.com`.
+- [x] For Art Restoration fine-tuned model weights [12GB] contact `rnfrbdsandeep@gmail.com`.
 - [ ] 
 
 ## <font color="red" >   </font>

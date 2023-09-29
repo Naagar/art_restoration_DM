@@ -1,4 +1,7 @@
-# Art restoration in camera capute images of distorted/degraded Art.
+# [Art restoration in camera capute images of distorted/degraded Art](https://arxiv.org/abs/2309.13655)
+
+Paper: [arxiv.org/abs/2309.13655](arxiv.org/abs/2309.13655)
+
 Image restoration and super resolution using finetuned Diffusion Model.
 
 ### [COMPETITIONS @ ICETCI 2023](https://ietcint.com/user/competitions)  

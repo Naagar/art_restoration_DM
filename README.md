@@ -1,4 +1,4 @@
-# [Art restoration in camera capute images of distorted/degraded Art](https://arxiv.org/abs/2309.13655)
+## [Art restoration in camera capute images of distorted/degraded Art](https://arxiv.org/abs/2309.13655)
 
 Paper: [arxiv.org/abs/2309.13655](arxiv.org/abs/2309.13655)
 
